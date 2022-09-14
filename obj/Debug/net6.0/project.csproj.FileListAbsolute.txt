@@ -1,0 +1,15 @@
+/home/ruslan/project/project/bin/Debug/net6.0/project
+/home/ruslan/project/project/bin/Debug/net6.0/project.deps.json
+/home/ruslan/project/project/bin/Debug/net6.0/project.runtimeconfig.json
+/home/ruslan/project/project/bin/Debug/net6.0/project.dll
+/home/ruslan/project/project/bin/Debug/net6.0/project.pdb
+/home/ruslan/project/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/home/ruslan/project/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruslan/project/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/home/ruslan/project/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/home/ruslan/project/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/home/ruslan/project/project/obj/Debug/net6.0/project.dll
+/home/ruslan/project/project/obj/Debug/net6.0/refint/project.dll
+/home/ruslan/project/project/obj/Debug/net6.0/project.pdb
+/home/ruslan/project/project/obj/Debug/net6.0/project.genruntimeconfig.cache
+/home/ruslan/project/project/obj/Debug/net6.0/ref/project.dll
